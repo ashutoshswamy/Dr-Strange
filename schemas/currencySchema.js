@@ -104,6 +104,10 @@ const schema = new mongoose.Schema({
   chopwoodTimeout: {
     type: Number,
   },
+
+  coinflipTimeout: {
+    type: Number,
+  },
 });
 
 module.exports = mongoose.model("currencySchema", schema, "currencySchema");
