@@ -108,6 +108,10 @@ const schema = new mongoose.Schema({
   coinflipTimeout: {
     type: Number,
   },
+
+  slotsTimeout: {
+    type: Number,
+  },
 });
 
 module.exports = mongoose.model("currencySchema", schema, "currencySchema");
