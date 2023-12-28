@@ -49,7 +49,7 @@ module.exports = {
         embeds: [timeoutEmbed],
       });
     } else {
-      if (choice == 0) {
+      if (choice === 0) {
         const replies = [
           "Not now, you beggar!",
           "I can't give you coins right now!",
