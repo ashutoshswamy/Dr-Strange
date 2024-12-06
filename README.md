@@ -26,5 +26,4 @@ There are many more commands, these above screenshots are just a demo.
 
 - Name: Ashutosh Swamy
 - GitHub: ashutoshswamy
-- Discord: ashutosh
-- X: ashutoshswamy_
+- LinkedIn: Ashutosh Swamy
